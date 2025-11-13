@@ -1,37 +1,10 @@
-## Olá! Eu sou [Seu Nome] 👋
+## Olá 👋
 
-[Aqui você pode escrever um parágrafo curto sobre você. O que você faz? Pelo que você é apaixonado? Ex: "Sou um desenvolvedor Full-Stack apaixonado por criar soluções web inovadoras e acessíveis."]
-
----
-
-### 🔭 No que estou trabalhando agora:
-* [Nome do seu projeto principal ou da sua empresa]
-* [Um projeto pessoal interessante, ex: "Um app de finanças em React Native"]
-
-### 🌱 O que estou aprendendo:
-* [Tecnologia, linguagem ou conceito, ex: "Go (Golang) para desenvolvimento de back-end"]
-* [Outra habilidade, ex: "Arquitetura de microsserviços e Kubernetes"]
-
-### 👯 Busco colaborar em:
-* [Tipo de projeto, ex: "Projetos open source que utilizam Python e Django"]
-* [Causa ou tipo de equipe, ex: "Projetos voltados para educação ou impacto social"]
-
-### 🤔 Preciso de ajuda com:
-* [Um desafio específico, ex: "Otimização de performance em aplicações React"]
-
-### 💬 Fale comigo sobre:
-* [Seus tópicos de interesse, ex: "Desenvolvimento web, JavaScript, Python, e qualquer coisa sobre Star Wars!"]
-
-### 📫 Como me encontrar:
-* **LinkedIn:** `https://linkedin.com/in/seulinkedin`
-* **Email:** `seu.email@provedor.com`
-* **Portfólio:** `https://seusite.com`
-
-### 😄 Pronomes:
-* [Seus pronomes, ex: Ele/Dele]
-
-### ⚡ Fato curioso:
-* [Algo interessante sobre você, ex: "Meu primeiro 'Hello, World!' foi em uma calculadora científica."]
+- 🔭 Atualmente estou trabalhando em ... Projetos de software pessoais e academicos
+- 🌱 Atualmente estou aprendendo ... Ánalise de Dados e Desenvolvimento
+- 👯 Estou buscando colaborar em ... Projetos 
+- 😄 Pronomes: ... Ele/Dele
+- ⚡ Fato curioso: ... Vivo numa Kombi
 
 ---
 
