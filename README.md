@@ -18,7 +18,5 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-(Lembre-se de trocar `farleyalkmiim` pelo seu nome de usuário, se for diferente!)
-
 [![Estatísticas do GitHub de Farley](https://github-readme-stats.vercel.app/api?username=farleyalkmiim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/farleyalkmiim)
 [![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=farleyalkmiim&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/farleyalkmiim)
