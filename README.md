@@ -4,7 +4,6 @@
 - 🌱 Atualmente estou aprendendo ... Ánalise de Dados e Desenvolvimento
 - 👯 Estou buscando colaborar em ... Projetos 
 - 😄 Pronomes: ... Ele/Dele
-- ⚡ Fato curioso: ... Vivo numa Kombi
 
 ---
 
